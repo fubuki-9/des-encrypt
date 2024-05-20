@@ -1,3 +1,5 @@
+##DES-ENCRYPT
+
 ## Description
 This project is a Java-based Client/Server system. It encrypts data for secure transport over a network using DES (Data Encryption Standard) and decrypts it at the other end. The system uses TCP/IP for client-server communication. While most functionalities work as intended, some issues with decryption remain.
 
